@@ -5,7 +5,7 @@
   "start_url": "/?homescreen=1",
   "icons": [{
     "src": "android-icon.png",
-    "sizes": "400x400",
+    "sizes": "260x260",
     "type": "image/png"
   }]
 }
