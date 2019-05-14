@@ -1,0 +1,11 @@
+{
+  "name": "orixit.com",
+  "short_name": "OrixIT",
+  "description": "Learn how to create and share something or other.",
+  "start_url": "/?homescreen=1",
+  "icons": [{
+    "src": "android-icon.png",
+    "sizes": "400x400",
+    "type": "image/png"
+  }]
+}
